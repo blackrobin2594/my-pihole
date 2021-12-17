@@ -1,0 +1,7 @@
+## Sources all mushed together to remove any duplicates ##
+
+# Personal list
+
+0.0.0.0 xnxx.com
+0.0.0.0 xnxx.tv
+0.0.0.0 youjizz.com
