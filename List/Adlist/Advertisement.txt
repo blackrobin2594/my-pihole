@@ -1,13 +1,8 @@
 # Title: Advertisement
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
-#
 # ===============================================================
 
 
 0.0.0.0 nuid.imrworldwide.com
+0.0.0.0 crcdn01.adnxs-simple.com
+0.0.0.0 dco-assets.everestads.net
+0.0.0.0google_ads_iframe_/6692/AAX/speedtest.net
