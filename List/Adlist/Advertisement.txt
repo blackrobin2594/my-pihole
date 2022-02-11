@@ -1,12 +1,4 @@
 # Title: Advertisement
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
-#
 # ===============================================================
 
 
