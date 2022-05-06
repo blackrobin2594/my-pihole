@@ -1,6 +1,3 @@
-# This Reference hosts file is brought to you by Dan Pollock and can be found at
-# http://someonewhocares.org/hosts/
-
 # Personal Block List 
 
 #<block-adobe>
@@ -29,6 +26,8 @@
 0.0.0.0 activate.adobe.com
 #</block-adobe>
 
+# This Reference hosts file is brought to you by Dan Pollock and can be found at
+# http://someonewhocares.org/hosts/
 #<shock-sites>
 # For example, to block unpleasant pages, try:
 0.0.0.0 goatse.cx       # More information on sites such as 
