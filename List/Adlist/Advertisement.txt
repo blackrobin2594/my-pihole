@@ -1,8 +1,15 @@
 # Title: Advertisement
+# This ads shows here in the philippines.
 # ===============================================================
 
 
 0.0.0.0 nuid.imrworldwide.com
 0.0.0.0 crcdn01.adnxs-simple.com
 0.0.0.0 dco-assets.everestads.net
-0.0.0.0google_ads_iframe_/6692/AAX/speedtest.net
+0.0.0.0 google_ads_iframe_/6692/AAX/speedtest.net
+0.0.0.0 outbrain.com
+0.0.0.0 phoenix-widget.com
+0.0.0.0 mgid.com
+0.0.0.0 adskeeper.com
+0.0.0.0 losmetas.com
+0.0.0.0 disqus.com
