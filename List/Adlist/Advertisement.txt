@@ -13,3 +13,25 @@
 0.0.0.0 adskeeper.com
 0.0.0.0 losmetas.com
 0.0.0.0 disqus.com
+0.0.0.0 pubfuture.com
+0.0.0.0 radioonlinehd.net
+
+#hentai20.io
+0.0.0.0 x.disq.us
+0.0.0.0 tuber1.com
+0.0.0.0 a.magsrv.com
+0.0.0.0 bts.a11k.com
+0.0.0.0 useviral.com
+0.0.0.0 rtbrennab.com
+0.0.0.0 go.fxmnba.com
+0.0.0.0 tsyndicate.com
+0.0.0.0 go.xliirdr.com
+0.0.0.0 ts.trafget
+0.0.0.0 eu.iceporn.xxx
+0.0.0.0 s81c.com
+0.0.0.0 cdn.viglink.com
+0.0.0.0 preview.redd.it
+0.0.0.0 a.disquscdn.com
+0.0.0.0 c.disquscdn.com
+0.0.0.0 s.uuidksinc.net
+0.0.0.0 www-api.ibm.com
