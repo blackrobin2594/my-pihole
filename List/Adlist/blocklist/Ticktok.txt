@@ -1,0 +1,16 @@
+0.0.0.0 bytedance.com
+0.0.0.0 byteoversea.com
+0.0.0.0 ibytedtos.com
+0.0.0.0 ibyteimg.com
+0.0.0.0 muscdn.com
+0.0.0.0 musemuse.cn
+0.0.0.0 musical.ly
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 api2-16-h2.musical.ly.edgekey.net
+0.0.0.0 bytedance.map.fastly.net
+0.0.0.0 musically-alternate.app.link
+0.0.0.0 musically.app.link
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 video.h1.bytedance.map.fastly.net
