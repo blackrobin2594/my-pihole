@@ -1,0 +1,15 @@
+# SiteName: WhatsApp
+# This list is post by other username or me
+# It is list of sites that connected to.
+# =============================================================== 
+
+#Name: Google Push Notification
+# Date: May 2025
+# Link: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+mtalk.googel.com
+
+#Name: Domains
+# Date: May 2025
+# Link: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+wa.me
+www.wa.me

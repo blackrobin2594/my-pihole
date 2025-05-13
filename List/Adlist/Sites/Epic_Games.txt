@@ -1,0 +1,9 @@
+# Name: Epic Games
+# This list is post by other username or me
+# It is list of sites that connected to.
+# =============================================================== 
+
+#Name: Epic Games Store
+#Date: May 2025
+#LINK: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+tracking.epicgames.com

@@ -1,0 +1,9 @@
+# Name: Microsoft Edge Browser Update
+# This list is post by other username or me
+# It is list of sites that connected to.
+# =============================================================== 
+
+# Date: May 2025
+# Link: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+
+msedge.api.cdp.microsoft.com

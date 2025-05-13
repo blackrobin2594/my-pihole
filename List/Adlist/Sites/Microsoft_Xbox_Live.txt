@@ -1,0 +1,40 @@
+# SiteName: Xbox Live
+# This list is post by other username or me
+# It is list of sites that connected to.
+# =============================================================== 
+
+#Date: May 2025
+#LINK - : https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+clientconfig.passport.net 
+
+#Xbox Live Achievements
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
+#Xbox Live Messaging
+client-s.gateway.messenger.live.com
+
+# =============================================================== 
+
+#Username: harbinger_117
+#Date: Dec 2016
+#LINK - https://www.reddit.com/r/xboxone/comments/5khrrl/achievements_not_unlocking/
+activity.windows.com
+xbox.ipv6.microsoft.com
+device.auth.xboxlive.com
+www.msftncsi.com
+title.mgt.xboxlive.com
+xsts.auth.xboxlive.com
+title.auth.xboxlive.com
+ctldl.windowsupdate.com
+attestation.xboxlive.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+cert.mgt.xboxlive.com
+xkms.xbolive.com
+def-vef.xboxlive.com
+notify.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+eds.xboxlive.com
+www.xboxlive.com

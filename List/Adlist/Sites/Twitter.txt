@@ -1,0 +1,11 @@
+# Name: Twitter
+# This list is post by other username or me
+# It is list of sites that connected to.
+# =============================================================== 
+
+# Date: May 2025
+#LINK: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+twitter.com
+upload.twitter.com
+api.twitter.com
+mobile.twitter.com

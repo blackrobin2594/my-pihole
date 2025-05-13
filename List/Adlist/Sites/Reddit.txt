@@ -1,0 +1,12 @@
+# Name: Reddit
+# This list is post by other username or me
+# It is list of sites that connected to.
+# =============================================================== 
+
+# Date: May 2025
+#LINK: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+styles.redditmedia.com
+www.redditstatic.com
+reddit.map.fastly.net
+www.redditmedia.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com

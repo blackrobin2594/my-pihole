@@ -1,0 +1,11 @@
+# SiteName: Microsoft Store
+# This list is post by other username or me
+# It is list of sites that connected to.
+# =============================================================== 
+
+# Date: May 2025
+# Link: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+
+dl.delivery.mp.microsoft.com 
+geo-prod.do.dsp.mp.microsoft.com 
+displaycatalog.mp.microsoft.com

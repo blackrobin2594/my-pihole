@@ -1,0 +1,14 @@
+# SiteName: Google Youtube
+# This list is post by other username or me
+# It is list of sites that connected to.
+# =============================================================== 
+
+# Date: May 2025
+# Link: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+s.youtube.com
+video-stats.l.google.com
+
+# For ios
+www.googleapis.com 
+youtubei.googleapis.com
+oauthaccountmanager.googleapis.com
