@@ -1,3 +1,8 @@
+# SiteName: Ticktok
+# This list is post by other username or me (blackrobin2594)
+# It is list of sites that connected to.
+# ===============================================================
+
 0.0.0.0 bytedance.com
 0.0.0.0 byteoversea.com
 0.0.0.0 ibytedtos.com
