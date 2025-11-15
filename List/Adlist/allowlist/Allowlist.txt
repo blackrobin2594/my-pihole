@@ -1,0 +1,304 @@
+# AdAway default AllowList
+# Allowing commonly whitelisted domains
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/blackrobin2594/my-pihole/refs/heads/main/List/Adlist/allowlist/Personal.txt
+#
+# Syntax: Pihole
+# ===============================================================
+
+# Grammarly
+0.0.0.0 grammarly.com
+0.0.0.0 grammarly.io
+0.0.0.0 grammarly.net
+
+# Google Maps and other Google services
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-google-maps-and-other-google-services-2
+0.0.0.0 clients4.google.com 
+0.0.0.0 clients2.google.com
+
+# YouTube history
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-youtube-history-3
+0.0.0.0 s.youtube.com 
+0.0.0.0 video-stats.l.google.com
+
+# YouTube App for iOS
+#LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-youtube-app-for-ios-4
+0.0.0.0 www.googleapis.com 
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 oauthaccountmanager.googleapis.com
+
+# Google Play
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-google-play-5
+0.0.0.0 android.clients.google.com
+
+# Google Keep
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-google-keep-6
+0.0.0.0 reminders-pa.googleapis.com 
+0.0.0.0 firestore.googleapis.com
+
+# Google Fonts
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-google-fonts-7
+0.0.0.0 gstaticadssl.l.google.com
+
+# Gmail (Google Mail)
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-gmail-google-mail-8
+0.0.0.0 googleapis.l.google.com
+0.0.0.0 Google Chrome (to update on ubuntu)
+0.0.0.0 dl.google.com
+
+# Google Chrome (to update on ubuntu)
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-google-chrome-to-update-on-ubuntu-9
+0.0.0.0 dl.google.com
+
+# Android TV
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-android-tv-10
+0.0.0.0 redirector.gvt1.com
+
+# Windows uses this to verify connectivity to Internet
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-windows-uses-this-to-verify-connectivity-to-internet-14
+0.0.0.0 www.msftncsi.com 
+0.0.0.0 www.msftconnecttest.com
+
+# Microsoft Web Pages (Outlook, Office365, Live, Microsoft.com...)
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-microsoft-web-pages-outlook-office365-live-microsoftcom-15
+0.0.0.0 outlook.office365.com 
+0.0.0.0 products.office.com 
+0.0.0.0 c.s-microsoft.com 
+0.0.0.0 i.s-microsoft.com 
+0.0.0.0 login.live.com 
+0.0.0.0 login.microsoftonline.com 
+
+# bitlocker recovery key to Microsoft account
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-backup-bitlocker-recovery-key-to-microsoft-account-16
+0.0.0.0 g.live.com
+
+# Microsoft Store (Windows Store)
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-microsoft-store-windows-store-17
+0.0.0.0 dl.delivery.mp.microsoft.com 
+0.0.0.0 geo-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 displaycatalog.mp.microsoft.com
+
+# Windows 10 Update
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-windows-10-update-18
+0.0.0.0 sls.update.microsoft.com.akadns.net 
+0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
+0.0.0.0 tlu.dl.delivery.mp.microsoft.com
+
+# Microsoft Edge Browser Update
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-microsoft-edge-browser-update-19
+0.0.0.0 msedge.api.cdp.microsoft.com
+
+# Xbox Live
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-xbox-live-20
+0.0.0.0 clientconfig.passport.net 
+
+# Xbox Live Achievements
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-xbox-live-achievements-confirmed-by-microsoft-21
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v20.events.data.microsoft.com
+0.0.0.0 xbox.ipv6.microsoft.com
+
+# Xbox Live Achievements 
+# LINK - #https://www.reddit.com/r/xboxone/comments/5khrrl/achievements_not_unlocking/
+0.0.0.0 device.auth.xboxlive.com
+0.0.0.0 www.msftncsi.com
+0.0.0.0 title.mgt.xboxlive.com
+0.0.0.0 xsts.auth.xboxlive.com
+0.0.0.0 title.auth.xboxlive.com
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 attestation.xboxlive.com
+0.0.0.0 xboxexperiencesprod.experimentation.xboxlive.com
+0.0.0.0 xflight.xboxlive.com
+0.0.0.0 cert.mgt.xboxlive.com
+0.0.0.0 xkms.xbolive.com
+0.0.0.0 def-vef.xboxlive.com
+0.0.0.0 notify.xboxlive.com
+0.0.0.0 help.ui.xboxlive.com
+0.0.0.0 licensing.xboxlive.com
+0.0.0.0 eds.xboxlive.com
+0.0.0.0 www.xboxlive.com
+
+# Xbox Live Messaging
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-xbox-live-messaging-posthttpsdiscoursepi-holenettcommonly-whitelisted-domains21229-22
+0.0.0.0 client-s.gateway.messenger.live.com
+
+# Xbox Live Messaging
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212/29
+0.0.0.0 www.google-analytics.com
+
+# Store App on Series X/S
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-store-app-on-series-xs-23
+0.0.0.0 arc.msn.com
+
+# EA Play on Xbox
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-ea-play-on-xbox-24
+0.0.0.0 activity.windows.com
+
+# Skype
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-skype-26
+0.0.0.0 s.gateway.messenger.live.com 
+0.0.0.0 client-s.gateway.messenger.live.com 
+0.0.0.0 ui.skype.com pricelist.skype.com 
+0.0.0.0 apps.skype.com m.hotmail.com 
+0.0.0.0 sa.symcb.com s{1..5}.symcb.com 
+
+# Microsoft Office
+# LINK - https://www.reddit.com/r/pihole/comments/5eq4on/problems_with_microsoft_office/
+0.0.0.0 officeclient.microsoft.com 
+0.0.0.0 nexusrules.officeapps.live.com
+
+# Bing Maps Platform
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-bing-maps-platform-28
+0.0.0.0 dev.virtualearth.net 
+0.0.0.0 ecn.dev.virtualearth.net 
+0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net 
+0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
+
+# Apple Music
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-apple-music-30
+0.0.0.0 itunes.apple.com
+0.0.0.0 s.mzstatic.com
+
+# Apple ID
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-apple-id-31
+0.0.0.0 appleid.apple.com
+
+# iOS Weather app
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-ios-weather-app-32
+0.0.0.0 gsp-ssl.ls.apple.com
+0.0.0.0 gsp-ssl.ls-apple.com.akadns.net
+
+
+#NOTE - Others
+# ===============================================================
+
+# Spotify
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-spotify-39
+0.0.0.0 spclient.wg.spotify.com apresolve.spotify.com
+0.0.0.0 api-tv.spotify.com
+
+# Facebook, Facebook Messenger
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-facebook-facebook-messenger-41
+0.0.0.0 upload.facebook.com 
+0.0.0.0 creative.ak.fbcdn.net 
+0.0.0.0 external-lhr0-1.xx.fbcdn.net 
+0.0.0.0 external-lhr1-1.xx.fbcdn.net 
+0.0.0.0 external-lhr10-1.xx.fbcdn.net 
+0.0.0.0 external-lhr2-1.xx.fbcdn.net 
+0.0.0.0 external-lhr3-1.xx.fbcdn.net 
+0.0.0.0 external-lhr4-1.xx.fbcdn.net 
+0.0.0.0 external-lhr5-1.xx.fbcdn.net 
+0.0.0.0 external-lhr6-1.xx.fbcdn.net 
+0.0.0.0 external-lhr7-1.xx.fbcdn.net 
+0.0.0.0 external-lhr8-1.xx.fbcdn.net 
+0.0.0.0 external-lhr9-1.xx.fbcdn.net 
+0.0.0.0 fbcdn-creative-a.akamaihd.net 
+0.0.0.0 scontent-lhr3-1.xx.fbcdn.net 
+0.0.0.0 scontent.xx.fbcdn.net 
+0.0.0.0 scontent.fgdl5-1.fna.fbcdn.net 
+0.0.0.0 graph.facebook.com 
+0.0.0.0 b-graph.facebook.com 
+0.0.0.0 connect.facebook.com 
+0.0.0.0 cdn.fbsbx.com 
+0.0.0.0 api.facebook.com 
+0.0.0.0 edge-mqtt.facebook.com 
+0.0.0.0 mqtt.c10r.facebook.com 
+0.0.0.0 portal.fb.com 
+0.0.0.0 star.c10r.facebook.com 
+0.0.0.0 star-mini.c10r.facebook.com 
+0.0.0.0 b-api.facebook.com 
+0.0.0.0 fb.me bigzipfiles.facebook.com 
+0.0.0.0 l.facebook.com 
+0.0.0.0 www.facebook.com 
+0.0.0.0 scontent-atl3-1.xx.fbcdn.net 
+0.0.0.0 static.xx.fbcdn.net 
+0.0.0.0 edge-chat.messenger.com 
+0.0.0.0 video.xx.fbcdn.net 
+0.0.0.0 external-ort2-1.xx.fbcdn.net 
+0.0.0.0 scontent-ort2-1.xx.fbcdn.net 
+0.0.0.0 edge-chat.facebook.com 
+0.0.0.0 scontent-mia3-1.xx.fbcdn.net 
+0.0.0.0 web.facebook.com 
+0.0.0.0 rupload.facebook.com 
+0.0.0.0 l.messenger.com
+
+# Dropbox
+#LINK - https://www.reddit.com/r/pihole/comments/6fer0z/for_anyone_who_cant_seem_to_download_dropbox_files/
+0.0.0.0 dl.dropboxusercontent.com 
+0.0.0.0 ns1.dropbox.com 
+0.0.0.0 ns2.dropbox.com
+
+# Plex Domains
+#LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-plex-domains-45
+0.0.0.0 plex.tv 
+tvdb2.plex.tv 
+pubsub.plex.bz 
+proxy.plex.bz 
+proxy02.pop.ord.plex.bz 
+cpms.spop10.ams.plex.bz 
+meta-db-worker02.pop.ric.plex.bz 
+meta.plex.bz 
+tvthemes.plexapp.com.cdn.cloudflare.net 
+tvthemes.plexapp.com 
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services 
+meta.plex.tv 
+cpms35.spop10.ams.plex.bz 
+proxy.plex.tv 
+metrics.plex.tv 
+pubsub.plex.tv 
+status.plex.tv 
+www.plex.tv 
+node.plexapp.com 
+nine.plugins.plexapp.com 
+staging.plex.tv 
+app.plex.tv 
+o1.email.plex.tv  
+o2.sg0.plex.tv 
+dashboard.plex.tv
+gravatar.com # custom login pictures
+thetvdb.com # metadata for tv series
+themoviedb.com # metadata for movies
+chtbl.com # iHeart radio/Plex Podcast
+
+# NVIDIA GeForce Experience
+#LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-nvidia-geforce-experience-54
+gfwsl.geforce.com
+
+# Epic Games Store
+#LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-epic-games-store-61
+tracking.epicgames.com
+
+
+# Mozilla Firefox Tracking Protection
+#LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-mozilla-firefox-tracking-protection-66
+tracking-protection.cdn.mozilla.net
+
+# Playstation 5 "Recently Played Games" and Trophies
+#LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-playstation-5-recently-played-games-and-trophies-67
+telemetry-console.api.playstation.com
+
+# Cannon Printers
+#LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-cannon-printers-68
+gdlp01.c-wss.com
+
+# Reddit
+#LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-reddit-69
+styles.redditmedia.com
+www.redditstatic.com
+reddit.map.fastly.net
+www.redditmedia.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
+
+# WhatsApp
+#LINK - #https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-whatsapp-71
+wa.me
+www.wa.me
+
+x (Twitter)
+#LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-x-73
+x.com
+upload.x.com
+api.x.com
+mobile.x.com
+

@@ -1,0 +1,53 @@
+# AllowList
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/blackrobin2594/my-pihole/refs/heads/main/List/Adlist/allowlist/Personal.txt
+#
+# Syntax: Pihole
+# Reference: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+# ===============================================================
+
+# Facebook, Facebook Messenger
+# LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-facebook-facebook-messenger-41
+0.0.0.0 upload.facebook.com 
+0.0.0.0 creative.ak.fbcdn.net 
+0.0.0.0 external-lhr0-1.xx.fbcdn.net 
+0.0.0.0 external-lhr1-1.xx.fbcdn.net 
+0.0.0.0 external-lhr10-1.xx.fbcdn.net 
+0.0.0.0 external-lhr2-1.xx.fbcdn.net 
+0.0.0.0 external-lhr3-1.xx.fbcdn.net 
+0.0.0.0 external-lhr4-1.xx.fbcdn.net 
+0.0.0.0 external-lhr5-1.xx.fbcdn.net 
+0.0.0.0 external-lhr6-1.xx.fbcdn.net 
+0.0.0.0 external-lhr7-1.xx.fbcdn.net 
+0.0.0.0 external-lhr8-1.xx.fbcdn.net 
+0.0.0.0 external-lhr9-1.xx.fbcdn.net 
+0.0.0.0 fbcdn-creative-a.akamaihd.net 
+0.0.0.0 scontent-lhr3-1.xx.fbcdn.net 
+0.0.0.0 scontent.xx.fbcdn.net 
+0.0.0.0 scontent.fgdl5-1.fna.fbcdn.net 
+0.0.0.0 graph.facebook.com 
+0.0.0.0 b-graph.facebook.com 
+0.0.0.0 connect.facebook.com 
+0.0.0.0 cdn.fbsbx.com 
+0.0.0.0 api.facebook.com 
+0.0.0.0 edge-mqtt.facebook.com 
+0.0.0.0 mqtt.c10r.facebook.com 
+0.0.0.0 portal.fb.com 
+0.0.0.0 star.c10r.facebook.com 
+0.0.0.0 star-mini.c10r.facebook.com 
+0.0.0.0 b-api.facebook.com 
+0.0.0.0 fb.me bigzipfiles.facebook.com 
+0.0.0.0 l.facebook.com 
+0.0.0.0 www.facebook.com 
+0.0.0.0 scontent-atl3-1.xx.fbcdn.net 
+0.0.0.0 static.xx.fbcdn.net 
+0.0.0.0 edge-chat.messenger.com 
+0.0.0.0 video.xx.fbcdn.net 
+0.0.0.0 external-ort2-1.xx.fbcdn.net 
+0.0.0.0 scontent-ort2-1.xx.fbcdn.net 
+0.0.0.0 edge-chat.facebook.com 
+0.0.0.0 scontent-mia3-1.xx.fbcdn.net 
+0.0.0.0 web.facebook.com 
+0.0.0.0 rupload.facebook.com 
+0.0.0.0 l.messenger.com
