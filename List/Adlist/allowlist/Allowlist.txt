@@ -9,8 +9,14 @@
 
 # Grammarly
 grammarly.com
+gateway.grammarly.com
 grammarly.io
+f-log-extension.grammarly.io
 grammarly.net
+applet-bundles.grammarly.net
+data.grammarly.com
+capi.grammarly.com
+ws.grammarly.com
 
 # Google Maps and other Google services
 # LINK - https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-google-maps-and-other-google-services-2
