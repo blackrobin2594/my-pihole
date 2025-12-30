@@ -308,3 +308,5 @@ upload.x.com
 api.x.com
 mobile.x.com
 
+# Manga
+kaliscan.io
