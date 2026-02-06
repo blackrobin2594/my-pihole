@@ -1,5 +1,5 @@
 # Title: Advertisement
-# This ads shows here in the philippines.
+# This ads shows in the philippines.
 # ===============================================================
 
 
