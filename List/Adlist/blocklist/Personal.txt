@@ -10008,9 +10008,9 @@
 0.0.0.0 te.versiontracker.com
 #</belo-interactive-sites>
 
-#<popup-traps>
-
+# //NOTE - <popup-traps>
 # popup traps -- sites that bounce you around or won't let you leave
+
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 incestland.com
 0.0.0.0 lesview.com
@@ -10031,7 +10031,7 @@
 0.0.0.0 www.yourfuckbook.com
 #</popup-traps>
 
-#<ecard-scam-sites>
+# //NOTE - <ecard-scam-sites>
 
 # malicious e-card -- these sites send out mass quantities of spam 
 	# and some distribute adware and spyware
@@ -10058,14 +10058,8 @@
 0.0.0.0 www.friendgreetings.net
 0.0.0.0 www.laugh-mail.com
 0.0.0.0 www.laugh-mail.net
-#</ecard-scam-sites>
 
-#<IVW-sites>
-
-# European network of tracking sites
-#</IVW-sites>
-
-#<wiki-spam-sites>
+# //NOTE - <wiki-spam-sites>
 
 # message board and wiki spam -- these sites are linked in 
 	# message board spam and are unlikely to be real sites
@@ -10566,7 +10560,7 @@
 0.0.0.0 zyrtec.4.p2l.info
 #</wiki-spam-sites>
 
-#<Windows10>
+# //NOTE - <Windows10>
 
 # Windows 10 reporting domains. 
 0.0.0.0 a.ads2.msads.net
@@ -10594,4 +10588,6 @@
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
-#</Windows10>
+
+# //NOTE - Kaliscan.io ads
+zb.bryoniashopper.shop
