@@ -295,6 +295,9 @@ www.redditstatic.com
 reddit.map.fastly.net
 www.redditmedia.com
 reddit-uploaded-media.s3-accelerate.amazonaws.com
+w3-reporting.reddit.com
+alb.reddit.com
+preview.redd.it
 
 # WhatsApp
 #LINK - #https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212#p-628-whatsapp-71
